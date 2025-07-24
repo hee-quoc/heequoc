@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
 
-- 👾 Also, I'm working on **POLARIS ARTHUB** as **Assistant Manager**
+- 👾 Also, I'm working on **POLARIS ARTHUB** as **Art Assistant | Assistant Manager**
 
 - 👨‍💻 All of my projects are available at: [heequoc.me](https://heequoc.me/)
 
