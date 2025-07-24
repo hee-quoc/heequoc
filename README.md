@@ -10,7 +10,7 @@
 
 <p align="center"> <img width="140" src="https://media3.giphy.com/media/q0vHNExWIUGSBApPC4/200.webp"  alt="GitHub Profile Trophy"/></p>
 
-- 🔭 I’m currently working on **IMACS from IVS JSC Company** as **AI Engineer Intern**
+- 🔭 I’m currently working on **IMACS from IVS JSC Company** as **Robotic Researcher Intern**
 
 - 👾 Also, I'm working on **POLARIS ARTHUB** as **Art Assistant | Assistant Manager**
 
